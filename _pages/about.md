@@ -16,10 +16,13 @@ Publications
 **Yihan Wu**, Heng Huang, Hongyang Zhang.  
 *In International Conference on Machine Learning, ICML 2023.*
 
-
 **Adversarial Weight Perturbation Improves Generalization in Graph Neural Network**  
 **Yihan Wu**, Aleksandar Bojchevski, Heng Huang.  
 *In Conference on Artificial Intelligence, AAAI 2023 (<span style="color:red">oral</span>).*
+
+**Cooperation or Competition: Avoiding Player Domination for Multi-target Robustness by Adaptive Budgets**  
+Yimu Wang, Dinghuai Zhang, **Yihan Wu**, Heng Huang, Hongyang Zhang  
+*In IEEE / CVF Computer Vision and Pattern Recognition Conference, CVPR 2023.*
 
 
 **RetrievalGuard: Provably Robust 1-Nearest Neighbor Image Retrieval**  
