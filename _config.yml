@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yihan Wu"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Yihan Wu"
 description              : &description "PhD student at University of Maryland"
