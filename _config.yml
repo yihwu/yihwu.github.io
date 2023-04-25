@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Yihan Wu"
-description              : &description "ywu42 [at] umd [dot] edu"
+description              : &description "PhD student at University of Maryland"
 url                      : https://yihanwu-inf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yihanwu-inf/yihanwu-inf.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yihan Wu"
   avatar           : "photo.jpeg"
-  bio              : "PhD student at University of Maryland"
+  bio              : "ywu42 [at] umd [dot] edu"
   location         : "College Park, Maryland"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=cajTg_wAAAAJ"
-  email            :
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
