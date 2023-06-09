@@ -19,4 +19,4 @@ Education
 
 Work experience
 ======
-* Summer 2023: Incoming Applied Scientist Intern @ Amazon Alexa
+* Summer 2023: Applied Scientist Intern @ Amazon Search AI
