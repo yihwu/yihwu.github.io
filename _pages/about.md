@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. Candidate in Computer Science at the University of Maryland advised by Prof. [Heng Huang](https://sites.pitt.edu/~heh45/), where I am currently conducting research on Trustworthy Machine Learning. My work revolves around exploring the application of this field in various areas, such as computer vision, graph neural networks, and foundation models. I am fortunate to have the chance to collaborate with Prof. [Hongyang Zhang](https://hongyanz.github.io/) and Prof. [Aleksandar Bojchevski](https://abojchevski.github.io/).
 
-Selected Publications
+Selected Publications 
 ======
 
 **De-mark: Watermark Removal in Large Language Models**  
@@ -41,3 +41,4 @@ Ruibo Chen\*, **Yihan Wu**\*, Yanshuo Chen, Chenxi Liu, Junfeng Guo, Heng Huang.
 **Yihan Wu**, Aleksandar Bojchevski, Aleksei Kuvshinov, Stephan Günnemann.  
 *In International Conference on Artificial Intelligence and Statistics, AISTATS 2021.*
 
+<sub>(\* equal contribution)<sub>
