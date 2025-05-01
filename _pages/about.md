@@ -14,11 +14,11 @@ Selected Publications
 ======
 
 **De-mark: Watermark Removal in Large Language Models**  
-Ruibo Chen*, **Yihan Wu***, Junfeng Guo, Heng Huang.  
+Ruibo Chen*, **Yihan Wu\***, Junfeng Guo, Heng Huang.  
 *In International Conference on Machine Learning, ICML 2025.*
 
 **A Watermark for Order-Agnostic Language Models**  
-Ruibo Chen*, **Yihan Wu***, Yanshuo Chen, Chenxi Liu, Junfeng Guo, Heng Huang.  
+Ruibo Chen*, **Yihan Wu\***, Yanshuo Chen, Chenxi Liu, Junfeng Guo, Heng Huang.  
 *In International Conference on Learning Representations, ICLR 2025.*
 
 **A Resilient and Accessible Distribution-Preserving Watermark for Large Language Models**  
