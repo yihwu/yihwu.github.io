@@ -41,4 +41,4 @@ Ruibo Chen\*, **Yihan Wu**\*, Yanshuo Chen, Chenxi Liu, Junfeng Guo, Heng Huang.
 **Yihan Wu**, Aleksandar Bojchevski, Aleksei Kuvshinov, Stephan Günnemann.  
 *In International Conference on Artificial Intelligence and Statistics, AISTATS 2021.*
 
-<sub>(\* equal contribution)<sub>
+<sub>(\* equal contribution. For a complete list, please visit my [Google Scholar](https://scholar.google.com/citations?user=cajTg_wAAAAJ) profile.)<sub>
