@@ -19,4 +19,5 @@ Education
 
 Work experience
 ======
-* Summer 2023: Applied Scientist Intern @ Amazon Search AI
+* Summer 2023: Applied Scientist Intern @ Amazon
+* Summer 2024: Research Scientist Intern @ Meta
