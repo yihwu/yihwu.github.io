@@ -13,6 +13,10 @@ I am a Ph.D. Candidate in Computer Science at the University of Maryland advised
 Selected Publications 
 ======
 
+**Improved Unbiased Watermark for Large Language Models**  
+Ruibo Chen\*, **Yihan Wu**\*, Junfeng Guo, Heng Huang.  
+*In Annual Meeting of the Association for Computational Linguistics, ACL 2025.*
+
 **De-mark: Watermark Removal in Large Language Models**  
 Ruibo Chen\*, **Yihan Wu**\*, Junfeng Guo, Heng Huang.  
 *In International Conference on Machine Learning, ICML 2025.*
