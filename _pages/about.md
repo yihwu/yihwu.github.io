@@ -17,7 +17,7 @@ Selected Publications
 *Interspeech 2025.*
 
 **GAS: Large-scale Heterogeneous Personalization in Social Network Applications at Meta**  
-**Yihan Wu**, Mingze Gao, Haoran Liu, weiwei li, Kevin Han, Junfeng Pan, Xinyi Zhang, Jiawei Wen, Gedi Zhou.  
+**Yihan Wu**, Mingze Gao, Haoran Liu, Weiwei Li, Kevin Han, Junfeng Pan, Xinyi Zhang, Jiawei Wen, Gedi Zhou.  
 *In SIGKDD Conference on Knowledge Discovery and Data Mining - Applied Data Science Track, KDD 2025.*
 
 **Improved Unbiased Watermark for Large Language Models**  
