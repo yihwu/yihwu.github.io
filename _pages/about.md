@@ -16,8 +16,8 @@ Selected Publications
 **Yihan Wu**\*, Ruibo Chen\*, Georgios Milis\*, Junfeng Guo, Heng Huang.  
 *Interspeech 2025.*
 
-**GAS: Large-scale Heterogeneous Personalization in Social Network Applications at Meta**
-**Yihan Wu**, Mingze Gao, Haoran Liu, WEIWEI LI, Kevin Han, Junfeng Pan, Xinyi Zhang, Jiawei Wen, Gedi Zhou.
+**GAS: Large-scale Heterogeneous Personalization in Social Network Applications at Meta**  
+**Yihan Wu**, Mingze Gao, Haoran Liu, WEIWEI LI, Kevin Han, Junfeng Pan, Xinyi Zhang, Jiawei Wen, Gedi Zhou.  
 *In SIGKDD Conference on Knowledge Discovery and Data Mining - Applied Data Science Track, KDD 2025.*
 
 **Improved Unbiased Watermark for Large Language Models**  
