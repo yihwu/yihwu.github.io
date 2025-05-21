@@ -12,6 +12,13 @@ I am a Ph.D. Candidate in Computer Science at the University of Maryland advised
 
 Selected Publications 
 ======
+**A Watermark for Auto-Regressive Speech Generation Models**  
+**Yihan Wu**\*, Ruibo Chen\*, Georgios Milis\*, Junfeng Guo, Heng Huang.  
+*Interspeech 2025.*
+
+**GAS: Large-scale Heterogeneous Personalization in Social Network Applications at Meta**
+**Yihan Wu**, Mingze Gao, Haoran Liu, WEIWEI LI, Kevin Han, Junfeng Pan, Xinyi Zhang, Jiawei Wen, Gedi Zhou.
+*In SIGKDD Conference on Knowledge Discovery and Data Mining - Applied Data Science Track, KDD 2025.*
 
 **Improved Unbiased Watermark for Large Language Models**  
 Ruibo Chen\*, **Yihan Wu**\*, Junfeng Guo, Heng Huang.  
