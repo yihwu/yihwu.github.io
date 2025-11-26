@@ -12,6 +12,10 @@ I am a Ph.D. Candidate in Computer Science at the University of Maryland advised
 
 Selected Publications 
 ======
+**Robust Distortion-Free Watermark for Auto-Regressive Speech Generation Models**  
+**Yihan Wu**\*, Georgios Milis\*, Ruibo Chen\*, Heng Huang.  
+*In Thirty-Ninth Annual Conference on Neural Information Processing Systems, NeurIPS 2025.*
+
 **A Watermark for Auto-Regressive Speech Generation Models**  
 **Yihan Wu**\*, Ruibo Chen\*, Georgios Milis\*, Junfeng Guo, Heng Huang.  
 *Interspeech 2025.*
