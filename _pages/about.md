@@ -12,13 +12,21 @@ I am a Ph.D. Candidate in Computer Science at the University of Maryland advised
 
 Selected Publications 
 ======
+**Analyzing and Evaluating Unbiased Language Model Watermark**  
+**Yihan Wu**\*, Xuehao Cui\*, Ruibo Chen, Heng Huang.  
+*In International Conference on Learning Representations, ICLR 2026.*
+
+**An Ensemble Framework for Unbiased Language Model Watermarking**  
+**Yihan Wu**\*, Ruibo Chen\*, Georgios Milis, Heng Huang.  
+*In International Conference on Learning Representations, ICLR 2026.*
+
 **Robust Distortion-Free Watermark for Auto-Regressive Speech Generation Models**  
 **Yihan Wu**\*, Georgios Milis\*, Ruibo Chen\*, Heng Huang.  
 *In Thirty-Ninth Annual Conference on Neural Information Processing Systems, NeurIPS 2025.*
 
 **A Watermark for Auto-Regressive Speech Generation Models**  
 **Yihan Wu**\*, Ruibo Chen\*, Georgios Milis\*, Junfeng Guo, Heng Huang.  
-*Interspeech 2025.*
+*Interspeech 2025 (<span style="color:red">oral</span>).*
 
 **GAS: Large-scale Heterogeneous Personalization in Social Network Applications at Meta**  
 **Yihan Wu**, Mingze Gao, Haoran Liu, Weiwei Li, Kevin Han, Junfeng Pan, Xinyi Zhang, Jiawei Wen, Gedi Zhou.  
